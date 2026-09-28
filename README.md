@@ -3,6 +3,9 @@
 A modern, responsive Expense Tracker web application built using **HTML, CSS, and vanilla JavaScript**.
 
 This project was developed as part of the **Software Developer Intern recruitment task**.
+## 📸 Dashboard Preview
+
+![ExpenseFlow Dashboard](expense.png)
 
 ---
 
